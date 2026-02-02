@@ -1,6 +1,6 @@
 import './App.css';
 import Question from './Components/Quiz Question'
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState } from 'react';
 import FinalResult from './Components/Final Result'
 
@@ -9,7 +9,7 @@ function App() {
   const [score,updateScore] = useState(0);
   return (
 
-    <HashRouter>
+    <BrowserRouter>
     
     <Routes>
       
@@ -46,7 +46,7 @@ function App() {
     </Routes>
 
     
-    </HashRouter>
+    </BrowserRouter>
 
 
 
