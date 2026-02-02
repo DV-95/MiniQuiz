@@ -25,11 +25,11 @@ function App() {
 
         
         <Route path = "/2" element = {
-          <Question questionno="1" questionbody="What ?" opta="Bracelets" optb="human" optc="divesh" optd="lecture" rightans="dog" score={score} setScore ={(a)=> updateScore(a)}/>}/>
+          <Question questionno="1" questionbody="In our pre-dating phase, you told me you were jealous of me cause I had a beautiful voice when I sent you a song. What was that song?" opta="Heer Ranjha" optb="Pehli Nazar mei" optc="O Bedardeya" optd="Can't help falling in love" rightans="Heer Ranjha" score={score} setScore ={(a)=> updateScore(a)}/>}/>
             
         
         <Route path = "/3" element={
-          <Question questionno="2" questionbody="what is an dog" opta="dog" optb="human" optc="divesh" optd="lecture" rightans="divesh" score={score} setScore = {(a)=>updateScore(a)}/>}>
+          <Question questionno="2" questionbody="Our first 4 am conversation was about" opta="Debate on feminism" optb="Debate on Sacred Heart School" optc="Discussion of 'YOU'" optd="Discussion on the story I had written" rightans="Discussion of 'YOU'" score={score} setScore = {(a)=>updateScore(a)}/>}>
             
             
         </Route>
