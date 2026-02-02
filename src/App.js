@@ -1,6 +1,6 @@
 import './App.css';
 import Question from './Components/Quiz Question'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState } from 'react';
 import FinalResult from './Components/Final Result'
 
