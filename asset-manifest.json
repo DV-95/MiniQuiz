@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MiniQuiz/static/css/main.8170c060.css",
+    "main.js": "/MiniQuiz/static/js/main.1d1feba4.js",
+    "index.html": "/MiniQuiz/index.html",
+    "main.8170c060.css.map": "/MiniQuiz/static/css/main.8170c060.css.map",
+    "main.1d1feba4.js.map": "/MiniQuiz/static/js/main.1d1feba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8170c060.css",
+    "static/js/main.1d1feba4.js"
+  ]
+}
