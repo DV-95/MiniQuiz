@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MiniQuiz/static/css/main.8170c060.css",
-    "main.js": "/MiniQuiz/static/js/main.89769ce3.js",
+    "main.js": "/MiniQuiz/static/js/main.e0195678.js",
     "index.html": "/MiniQuiz/index.html",
     "main.8170c060.css.map": "/MiniQuiz/static/css/main.8170c060.css.map",
-    "main.89769ce3.js.map": "/MiniQuiz/static/js/main.89769ce3.js.map"
+    "main.e0195678.js.map": "/MiniQuiz/static/js/main.e0195678.js.map"
   },
   "entrypoints": [
     "static/css/main.8170c060.css",
-    "static/js/main.89769ce3.js"
+    "static/js/main.e0195678.js"
   ]
 }
